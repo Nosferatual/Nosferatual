@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nosferatual
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Pyhton
+- 🌱 I’m currently learning Pyhton, c# and c++
 - 📫 How to reach me mehmetfurkanturkoglu@gmail.com
 
 <!---
